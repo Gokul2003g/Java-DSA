@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 //package com.company;
 //
 //import java.util.ArrayList;
@@ -32,6 +33,9 @@
 //    }
 //}
 =======
+=======
+
+>>>>>>> 82552737484c24459eebb0899dde6b679bb2e8fa
 package com.company;
 
 import java.util.ArrayList;
@@ -63,4 +67,8 @@ public class FindAllMissingNumbers {
         arr[second] = temp;
     }
 }
+<<<<<<< HEAD
 >>>>>>> 9abe7561dd522f0ce6bb503ceaf2d18d3d3fc18b
+=======
+
+>>>>>>> 82552737484c24459eebb0899dde6b679bb2e8fa

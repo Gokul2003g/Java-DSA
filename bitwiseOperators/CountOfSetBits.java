@@ -15,6 +15,8 @@ public class CountOfSetBits {
             count++;
             n = n - (n & (-n));
         }
+        // we can also and n and n-1
+        //n = n & (n-1);
 
         return count;
     }
